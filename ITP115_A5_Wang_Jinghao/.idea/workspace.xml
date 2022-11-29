@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a261105e-40b2-419d-9e1a-c25e9375727a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y8b8HwmqduO3Y2dEddei9TbNiw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ITP115_A5_Wang_Jinghao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITP115_A5_Wang_Jinghao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_A5_Wang_Jinghao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ITP115_A5_Wang_Jinghao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a261105e-40b2-419d-9e1a-c25e9375727a" name="Default Changelist" comment="" />
+      <created>1582327008122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582327008122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="200" key="GridCell.Tab.0.bottom" timestamp="1582339969539">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1379" height="200" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1582332269293" />
+    <state width="1379" height="200" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1582339969539" />
+    <state width="1379" height="200" key="GridCell.Tab.0.center" timestamp="1582339969538">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1379" height="200" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1582332269292" />
+    <state width="1379" height="200" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1582339969538" />
+    <state width="1379" height="200" key="GridCell.Tab.0.left" timestamp="1582339969537">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1379" height="200" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1582332269291" />
+    <state width="1379" height="200" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1582339969537" />
+    <state width="1379" height="200" key="GridCell.Tab.0.right" timestamp="1582339969539">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1379" height="200" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1582332269293" />
+    <state width="1379" height="200" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1582339969539" />
+    <state x="379" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1582340374397">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="379" y="251" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1582340374397" />
+    <state x="379" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1582327011677" />
+  </component>
+</project>

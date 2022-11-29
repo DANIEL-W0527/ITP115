@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f640e5a8-0413-4f8a-ad27-960fa47aff19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zj8YxreOA5bukDD4fSEOng3THx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.ITP115_A8_Wang_Jinghao">
+    <configuration name="ITP115_A8_Wang_Jinghao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITP115_A8_Wang_Jinghao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_A8_Wang_Jinghao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TicTacToeHelper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITP115_A8_Wang_Jinghao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TicTacToeHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ITP115_A8_Wang_Jinghao" />
+        <item itemvalue="Python.TicTacToeHelper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f640e5a8-0413-4f8a-ad27-960fa47aff19" name="Default Changelist" comment="" />
+      <created>1585341194288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585341194288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="201" key="GridCell.Tab.0.bottom" timestamp="1585360406041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585360406041" />
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1585349730325" />
+    <state width="1899" height="201" key="GridCell.Tab.0.center" timestamp="1585360406040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="201" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585360406040" />
+    <state width="1379" height="201" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1585349730324" />
+    <state width="1899" height="201" key="GridCell.Tab.0.left" timestamp="1585360406040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="201" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585360406040" />
+    <state width="1379" height="201" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1585349730324" />
+    <state width="1899" height="201" key="GridCell.Tab.0.right" timestamp="1585360406041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="201" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585360406041" />
+    <state width="1379" height="201" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1585349730324" />
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1585356798237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585356798237" />
+    <state x="410" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1585360518225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="410" y="260" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585360518224" />
+    <state x="410" y="262" key="com.intellij.ide.util.TipDialog/0.23.1920.991@0.23.1920.991" timestamp="1585341198580" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1585359784444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585359784444" />
+  </component>
+</project>
